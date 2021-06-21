@@ -1,46 +1,27 @@
-# CookieClicker
+# Space Clicker
 
-## Space cookie
+## The web page
 
-### Clicker
-
-Type of challenge: consolidation
-Repository: CookieClicker
-Duration: 2 days
-Team challenge: 4
-Deadline: 25/02/2021
-
-
-#### At the end of this challenge you should have improved your:
-
-JavaScript skills
-Team skills
-Git conflict skills
-
-## Our mission
-
-Our mission was to create a clicker game 
-
+[Check it here !](https://laurent-jazzon.github.io/space-clicker/)
 
 ## Our team
-
-Our team was composed by :
 
 - Jazzon Laurent
 - Laurent Degimbe
 - Jérémy Mertens
 - Arnaud Want
-- Maureen Marchal 
+- Maureen Marchal
 
-## Development
+## Objective
 
-- HTML
-- CSS
-- JavaScript
+- Creating of a clicker game 
 
-## Goal of the game
+## Context
 
-The goal of our game is to help a civilisation of humanoïdes cookies finding new planets 
+- We created this clicker game for our cursus in web developpement at Becode
+- I did mostly JS but also the planets in SVG.
 
+## Status 
 
-
+- Playable but there is still some bugs
+- Last update: April 21, 2021
