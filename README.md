@@ -25,3 +25,9 @@
 
 - Playable but there is still some bugs
 - Last update: April 21, 2021
+
+## The original repo
+
+[Check it here !](https://github.com/Maureenm41/CookieClicker)
+
+![](https://media.giphy.com/media/l4KhQo2MESJkc6QbS/giphy.gif)
